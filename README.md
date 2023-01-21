@@ -15,3 +15,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vanesakuleva&show_icons=true&hide_border=true&locale=en&layout=compact" alt="vanesakuleva" /></p>
 
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=vanesakuleva&show_icons=true&locale=en" alt="vanesakuleva" /></p>
