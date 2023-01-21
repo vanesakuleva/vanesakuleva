@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vanesa</h1>
 <h3 align="center">Student at Technical University of Sofia (Applied mathematics and informatics) and at Software University, Sofia</h3>
-<img align="right" alt="Coding" width="400" src=“https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif”>
+<img align="right" alt="Coding" width="400" src=“https://www.behance.net/gallery/116770475/Animated-illustrations/modules/665796227?fbclid=IwAR3Hnb19NUnRIKakASer6wJ3WBYHbBy3dDaICSO2oiN9vwVeHYhtBLJIkxA">
 
 - 🌱 I’m currently learning **Python, C#, Javascript**
 
