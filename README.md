@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vanesa</h1>
 <h3 align="center">Student at Technical University of Sofia (Applied mathematics and informatics) and at Software University, Sofia</h3>
-<img align="right" alt="Coding" width="400" src=“https://wifflegif.com/gifs/507629-creative-coding-perfect-loop-gif">
+<img align="right" alt="Coding" width="400" src="https://wifflegif.com/gifs/507629-creative-coding-perfect-loop-gif">
 
 - 🌱 I’m currently learning **Python, C#, Javascript**
 
