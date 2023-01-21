@@ -2,7 +2,7 @@
 
 <h3 align="center">Student at Technical University of Sofia (Applied mathematics and informatics) and at Software University, Sofia</h3>
 
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0819550f5122eb688ae4f6ca09bf6ac65312ee71b8d45aba5498f8667ad677a6/68747470733a2f2f61737369676e6d656e7473747564696f2e6e65742f77702d636f6e74656e742f75706c6f6164732f323032312f30322f67697068792e67696622">
+<img align="right" alt="Coding" width="400" src="https://www.ladobe.com.mx/wp-content/uploads/2021/11/7d701675-e5c2-026d-430d-ff4ba6f62542.gif">
 
 - 🌱 I’m currently learning **Python, C#, Javascript**
 
