@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://www.ladobe.com.mx/wp-content/uploads/2021/11/7d701675-e5c2-026d-430d-ff4ba6f62542.gif">
 
-- 🌱 I’m currently learning **Python, C#, Javascript**
+- 🌱 I’m currently learning **Python, C# and Javascript.**
 
 - 📫 How to reach me: **kuleva1603@gmail.com**
 
