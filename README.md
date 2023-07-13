@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Vanessa :herb: </h1>
 
-<h3 align="center">Student at Technical University of Sofia (Applied mathematics and informatics) and at Software University, Sofia</h3>
+<h3 align="center">Expert RPA Developer at Postbank(Eurobank) Bulgaria. Student at Software University and University of Ruse (Computer Science), Sofia</h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.ladobe.com.mx/wp-content/uploads/2021/11/7d701675-e5c2-026d-430d-ff4ba6f62542.gif">
 
