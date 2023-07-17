@@ -1,6 +1,6 @@
 <h1 align="center">Hi! I'm Vanessa :herb: </h1>
 
-<h3 align="center">Expert RPA Developer. Student at Software University and University of Ruse (Computer Science) </h3>
+<h3 align="center">I am an Expert RPA Developer and a passionate Student pursuing studies in Computer Science at both Software University and University of Ruse. With a keen interest in automation and technology. Additionally, I am proficient in Python, Django, and JavaScript, and I enjoy utilizing these tools to craft efficient web applications.  </h3>
 
 <img align="right" alt="Coding" width="400" src="https://www.ladobe.com.mx/wp-content/uploads/2021/11/7d701675-e5c2-026d-430d-ff4ba6f62542.gif">
 
